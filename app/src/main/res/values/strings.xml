@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Like WhatsApp Application</string>
+    <string name="tab_text_1">Chats</string>
+    <string name="tab_text_2">Status</string>
+    <string name="tab_text_3">Calls</string>
+
+   <string-array name="chat_names">
+       <item>King</item>
+       <item>Aching</item>
+       <item>Brian</item>
+       <item>Velma</item>
+       <item>Derrick</item>
+       <item>Maragaret</item>
+       <item>Ian</item>
+       <item>Susan</item>
+   </string-array>
+</resources>
